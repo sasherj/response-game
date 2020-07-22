@@ -1,0 +1,22 @@
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    margin: none;
+    border-radius: none;
+    display: none;        
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bold{
+    font-weight: bold;
+}
+.td{
+    border-style: ridge;
+    border-width: 3px;
+    padding: 2px;
+    border-radius: 10px;
+    border-color: black;
+}
